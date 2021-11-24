@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\110360253_冼卓軒_ch4\p6\source\main.c(15): warning C4778: 'printf' : 未結束的格式字串 '%13\n'
+c:\110360253_冼卓軒_ch4\p6\source\main.c(15): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\110360253_冼卓軒_ch4\p6\source\main.c(15): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  P6.vcxproj -> C:\110360253_冼卓軒_CH4\p6\P6\P6\..\..\temp\debug\P6.exe
